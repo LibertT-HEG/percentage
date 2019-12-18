@@ -1,6 +1,6 @@
 # percentage
 
-![](https://raw.githubusercontent.com/kas/percentage/master/percentage.png)
+![](https://i.imgur.com/Z1jCE4c.png)
 
 See your battery percentage in the Windows 10 system tray
 
